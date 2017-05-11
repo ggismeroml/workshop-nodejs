@@ -1,0 +1,9 @@
+{
+  "name": "example-03",
+  "version": "1.0.0",
+  "description": "Ejemplo 3 del workshop",
+  "main": "index.js",
+  "dependencies": {
+    "print": "^1.0.2"
+  }
+}
