@@ -17,7 +17,7 @@ utils.greetWithName("Alice");
 
 const mySquare = square(4);
 
-//Cuadrado de área 8
+//Cuadrado de área 16
 mySquare.printArea();
 
 
